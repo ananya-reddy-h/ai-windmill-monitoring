@@ -1,0 +1,13 @@
+frontend\node_modules\ 
+frontend\dist\ 
+backend\.venv\ 
+backend\__pycache__\ 
+backend\serviceAccountKey.json 
+backend\power_model.pkl 
+backend/backend1/.venv/ 
+backend/.venv/ 
+*/__pycache__/ 
+backend/windmill-dummy-uploader/.venv/ 
+*/__pycache__/ 
+backend/backend1/serviceAccountKey.json 
+backend/windmill-dummy-uploader/serviceAccountKey.json 
